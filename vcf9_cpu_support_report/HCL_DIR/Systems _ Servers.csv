@@ -1,0 +1,5 @@
+Model,CPU Model,Code Name,Supported Releases
+Cisco Systems Inc BE7H-M5-K9,Intel(R) Xeon(R) Gold 6132 CPU @ 2.60GHz,Skylake,ESXi 8.x
+Cisco Systems Inc UCSX-210C-M7,INTEL(R) XEON(R) GOLD 6526Y,Emerald Rapids,ESXi 9.0
+Dell Inc. PowerEdge R660,Intel(R) Xeon(R) Gold 5220S CPU @ 2.70GHz,Cascade Lake,ESXi 9.0
+Dell Inc. PowerEdge R740,Intel(R) Xeon(R) Gold 5115 CPU @ 2.40GHz,Skylake,ESXi 8.x

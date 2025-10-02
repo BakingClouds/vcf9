@@ -1,0 +1,2 @@
+﻿Name,Parent vCenter,Parent Cluster,vSphere Tag,Version,Model,Serial Number,BIOS Version,CPU Model,Sockets,Cores,Memory (GB),NIC Count,Management IP
+esx1.fqdn,vCenter Server,vSphere Cluster,tag,8.0.3-24674464,Dell Inc. PowerEdge R640,Serial,2.21.2,Intel(R) Xeon(R) Gold 5220S CPU @ 2.70GHz,2,36,766.63,7,"a1.b1.c1.d1, a2.b2.c2.d2"
