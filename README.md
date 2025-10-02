@@ -1,5 +1,5 @@
 # Welcome to vcf9 repo
-Repository for helper scripts created for VMware VCF9
+Repository created for VMware VCF9 helper scripts
 
 # Disclaimer
 
