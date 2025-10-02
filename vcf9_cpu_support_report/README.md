@@ -4,8 +4,6 @@ This repository contains a Python script (vcf9_cpu_support_report.py) that gener
     •	Customer inventory data (exported from VCF Operations)
     •	Broadcom Hardware Compatibility Guide (HCL) exports
     •	Official knowledge base references
-
-The report is designed for managers and cloud operators, with visual summaries, per-vendor details, and a full appendix with server names.
  
 ## 🔧 Requirements
 
